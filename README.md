@@ -1,4 +1,4 @@
-# co65f459cb09a3b61ad3e7f1c
+Interactive web design Twitter clone developed by HTML, CSS and Javascript concepts, Letting the user to add new tweets and interact with existed ones.
 
 ## About Scrimba
 
